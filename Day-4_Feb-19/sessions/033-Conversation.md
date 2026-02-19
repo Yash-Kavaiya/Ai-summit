@@ -1,0 +1,33 @@
+# Conversation
+
+**India AI Impact Summit 2026 — Day 4 (2026-02-19)**
+
+---
+
+## 📌 Session Details
+
+| | |
+|---|---|
+| ⏰ **Time** | 16:27 – 16:47 |
+| 📍 **Venue** | Bharat Mandapam | Plenary Hall - A |
+| 📅 **Date** | 2026-02-19 |
+| 🎥 **Video** | [▶️ Watch on YouTube](https://youtube.com/live/WgW7cC-kHgY?feature=share) |
+
+## 🎤 Speakers
+
+- Cina Lawson, Minister of Public Sector Efficiency & Digital Transformation, Togo
+- Nezar Patria, Vice Minister of Communications and Digital Affairs, Indonesia
+- Raafat Hindi, Minister of Communications and Information Technology, Egypt
+- Moderator:   Debjani Ghosh, Distinguished Fellow, NITI Aayog
+
+## 🔑 Key Takeaways
+
+_Notes to be added after watching the session._
+
+## 📺 Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/WgW7cC-kHgY/maxresdefault.jpg)](https://youtube.com/live/WgW7cC-kHgY?feature=share)
+
+---
+
+_[← Back to Day 4 Sessions](../README.md)_
